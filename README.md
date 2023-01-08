@@ -8,7 +8,7 @@ This is a simple Hello World program that displays the text *Hello World* on the
 This program is to demonstrate how a programmer can write code and have a phrase appear on the screen. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IKNlsRL2l-o)
 
 # Development Environment
 
